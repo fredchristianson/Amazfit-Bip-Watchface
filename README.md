@@ -5,9 +5,10 @@ This .json file and images can be used to create an Amazfit Bip watchface.
 The .bin file is ready to install.  You can make changes by editing the
 .json file and/or changing the images.  This page has some details about the .json file format.
 
-You can see the changes before
-installing on the watch at https://amazfitwatchfaces.com/editor/watchfaceEditor/?bip.
+You can see the changes before creating and installing on the watch at https://amazfitwatchfaces.com/editor/watchfaceEditor/?bip.
 This site also lets you see the view with different settings (time-of-day, temperature, etc)
+
+I use this tool to generate the watch face .bin file after changes https://github.com/YueErro/amazfitBip_watchface.
 
 This page describes the steps needed to hex edit the .bin file 
 and install the .bin as a "Local watch face"  
