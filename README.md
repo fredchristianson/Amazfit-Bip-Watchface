@@ -13,3 +13,7 @@ This page describes the steps needed to hex edit the .bin file
 and install the .bin as a "Local watch face"  
 https://amazfitwatchfaces.com/forum/viewtopic.php?f=14&t=128
 The .bin file in this repository has already been hex edited.
+
+Issues:
+* When I created the images I had antialiasing enabled.  The watch has very limited colors and some of the small digits and the background look fuzzy because of this.  I'm happy with it so haven't gone back to clean it up.
+* Midnight shows as "0:00" instead of "12:00".  Some people say they've fixed this but their technique breaks "10:00".  I'm happy with 12AM being "0".
